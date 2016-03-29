@@ -1,0 +1,2 @@
+# mobileTouchEncapsulated
+触屏事件封装, 增加通用的触屏元素背景即闪特效以增强用户体验效果
